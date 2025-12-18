@@ -1,0 +1,16 @@
+ARCHITECTURE OVERVIEW
+
+- Type: Transferable digital asset (non-SaaS)
+- Stack: Python + Flask
+- Architecture: Modular and deterministic
+- Separation of concerns:
+  - Core logic
+  - Content (FAQ-based)
+  - Interface (web + CLI)
+- No external APIs
+- No AI/LLM dependencies
+- Zero running costs
+- Designed for resale, integration, or later SaaS conversion
+
+NOTE:
+This document intentionally contains NO source code.
