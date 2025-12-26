@@ -1,14 +1,12 @@
-# Key Features
+# Key Features (Deliverable ZIP)
 
-- Deterministic customer support chatbot
-- Rule-based FAQ engine
+- Deterministic customer support chatbot (rule-based)
 - Predictable and auditable responses
-- Web demo included (local execution)
-- Console execution mode
-- Content packs for language/sector switching
-- Conversation logging
-- Zero operational costs
-- No vendor lock-in
-- Ready for white-label or resale
+- Local web demo (Flask)
+- Content packs (language / sector switching)
+- No paid AI / no external APIs (near-zero operating cost)
+- Windows-ready packaging (portable runner + verification scripts)
+- Buyer-grade proof (ZIP SHA256 + content manifest + audit report)
 
-No source code is included in this package.
+NOTE:
+This GitHub repository is information-only and contains no source code.

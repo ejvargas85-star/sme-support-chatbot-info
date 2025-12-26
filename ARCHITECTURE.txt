@@ -1,16 +1,16 @@
-ARCHITECTURE OVERVIEW
+ARCHITECTURE OVERVIEW (Deliverable ZIP)
 
 - Type: Transferable digital asset (non-SaaS)
 - Stack: Python + Flask
-- Architecture: Modular and deterministic
+- Model: Deterministic rules (FAQ-based matching) + safe fallback
 - Separation of concerns:
   - Core logic
-  - Content (FAQ-based)
-  - Interface (web + CLI)
+  - Content (JSON)
+  - Interface (local web demo)
+  - Delivery scripts (run / verify)
 - No external APIs
-- No AI/LLM dependencies
-- Zero running costs
+- No AI/LLM dependency
 - Designed for resale, integration, or later SaaS conversion
 
 NOTE:
-This document intentionally contains NO source code.
+This GitHub repository is information-only and intentionally contains NO source code.
